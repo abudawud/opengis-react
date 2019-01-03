@@ -1,6 +1,6 @@
 ## OpenGIS - React & OpenStreetMap
 Sistem Informasi Geografi dengan Framework React menggunakan Map Provider OpenStreetMap
-<img src="https://github.com/abudawud/opengis-react/blob/master/doc/screenshoot.png" style="display: block;margin-left: auto;margin-right: auto;" alt="Screenshoot" width="50%">
+<img src="https://github.com/abudawud/opengis-react/blob/master/doc/screenshoot.png">
 
 ## Getting Started
 Untuk dapat menjalankan projek ini berikut yang harus disiapkan telebih dahulu
